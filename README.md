@@ -1,2 +1,2 @@
-# SALA-Agent
+# SLA-Agent
 case study
